@@ -1,0 +1,4 @@
+#!/bin/sh
+
+mv bower_components/normalize-css/normalize.css bower_components/normalize-css/_normalize.scss
+mv bower_components/prism/themes/prism-twilight.css bower_components/prism/themes/_prism-twilight.scss

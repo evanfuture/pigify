@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "main.js": {
+      "bower": ["modernizr", "classie", "prism"],
+      "files": [
+        "scripts/stepsForm.js",
+        "scripts/main.js"
+      ],
+      "main": true
+    },
+    "main.css": {
+      "files": [
+        "styles/main.scss"
+      ],
+      "main": true
+    }
+  }
+}
